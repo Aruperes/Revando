@@ -8,8 +8,8 @@
   <!-- Short Bio -->
   <h3>✨ About Me</h3>
   <p>
-    I'm a passionate <strong>Full-stack Developer</strong> and <strong>AI Enthusiast</strong> with a deep interest in building intelligent applications.<br />
-    I specialize in combining data-driven approaches with robust software engineering practices 🚀
+    I'm a dedicated <strong>Full-stack Developer</strong> with a strong focus on <strong>Deep Learning</strong> and building intelligent systems.<br />
+    I enjoy combining software engineering skills with state-of-the-art AI to craft impactful solutions.
   </p>
 
   <!-- Social Media Badges -->
@@ -41,15 +41,11 @@
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   </p>
 
-  <!-- GitHub Stats -->
-  <h3>📊 GitHub Stats</h3>
+  <!-- Clean GitHub Stats -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Aruperes&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" alt="GitHub Stats" />
-  </p>
-  
-  <!-- Most Used Languages -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruperes&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Aruperes&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_rank=true" alt="GitHub Stats" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruperes&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" />
   </p>
 
   <!-- Visitor Count -->
