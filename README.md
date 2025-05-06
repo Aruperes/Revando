@@ -39,6 +39,17 @@
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   </p>
 
+  <!-- GitHub Stats -->
+  <h3>📊 GitHub Stats</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Aruperes&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" alt="GitHub Stats" />
+  </p>
+  
+  <!-- Most Used Languages -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruperes&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </p>
+
   <!-- Visitor Count -->
   <img src="https://komarev.com/ghpvc/?username=Aruperes&style=flat-square&color=blue" alt="Profile views" />
 
