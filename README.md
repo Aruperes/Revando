@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- Typing SVG Banner -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Revando+👋;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
 
   <br />
 
-  <!-- About Me Section -->
   <h3>✨ About Me</h3>
   <p>
     I'm a passionate <strong>Full-stack Developer</strong> with expertise in building modern web and mobile applications using cutting-edge technologies.<br />
@@ -14,7 +12,6 @@
 
   <br />
 
-  <!-- Social Media Links -->
   <p align="center">
     <a href="https://instagram.com/rvndars" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -31,7 +28,6 @@
 
   <br />
 
-  <!-- Tech Stack Section -->
   <h3>🛠️ Tech Stack</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -48,14 +44,18 @@
 
   <br />
 
-  <h3>🚀 Projects & Achievements</h3>
-  <p>
-    Here are some of the exciting projects I’ve worked on:
-  </p>
-  <ul>
-    <li><strong>Stunting Risk Calculator:</strong> A mobile app developed using React Native with LLM to calculate and analyze stunting risks in babies using AI.</li>
-    <li><strong>Brain Tumor Classification:</strong> A project using EfficientNet for brain tumor classification with AI-based transfer learning.</li>
-  </ul>
+<h3>🚀 Projects & Achievements</h3>
+<p>
+  Here are some of the exciting projects I’ve worked on:
+</p>
+<ul>
+  <li><strong>Stunting Risk Calculator:</strong> A mobile app developed using React Native with LLM to calculate and analyze stunting risks in babies using AI.</li>
+  <li><strong>Brain Tumor Classification:</strong> A project using EfficientNet for brain tumor classification with AI-based transfer learning.</li>
+  <li><strong>spend.ly:</strong> A money tracker built with Next.js, Express.js, and MongoDB to help users manage their finances.</li>
+  <li><strong>BudayaNa:</strong> A mobile app focused on educating users about the tourism and cultural heritage of North Minahasa, Indonesia.</li>
+  <li><strong>VillageDean:</strong> An application that helps in processing student data at Universitas Klabat.</li>
+</ul>
+
 
   <br />
 
