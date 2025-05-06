@@ -48,20 +48,17 @@
 
   <br />
 
-  <!-- Projects & Achievements Section -->
   <h3>🚀 Projects & Achievements</h3>
   <p>
     Here are some of the exciting projects I’ve worked on:
   </p>
   <ul>
-    <li><strong>Stunting Risk Calculator:</strong> A mobile app developed using React Native & TypeScript to calculate and analyze stunting risks in babies using AI.</li>
-    <li><strong>Brain Tumor Classification:</strong> A research project using YOLOv8 and ResNet50 for brain tumor classification with AI-based transfer learning.</li>
-    <li><strong>AI-powered Chatbot:</strong> Built using Flask and TensorFlow to simulate conversations and provide intelligent responses in various domains.</li>
+    <li><strong>Stunting Risk Calculator:</strong> A mobile app developed using React Native with LLM to calculate and analyze stunting risks in babies using AI.</li>
+    <li><strong>Brain Tumor Classification:</strong> A project using EfficientNet for brain tumor classification with AI-based transfer learning.</li>
   </ul>
 
   <br />
 
-  <!-- GitHub Stats Section -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Aruperes&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_rank=true" alt="GitHub Stats" />
     <br />
@@ -70,7 +67,6 @@
 
   <br />
 
-  <!-- Profile Views Section -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Aruperes&style=flat-square&color=blue" alt="Profile views" />
   </p>
