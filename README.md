@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Revando+👋;Full-stacDeveloper+%7C+Data+Scientist+%7C+AI+Enthusiast;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Revando+👋;Full-stack+Developer+%7C+Data+Scientist+%7C+AI+Enthusiast;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
 
   <br />
   
@@ -31,12 +31,12 @@
   <h3>🛠️ Tech Stack</h3>
   <p>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <i src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   </p>
 
   <!-- Visitor Count -->
