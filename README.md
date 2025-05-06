@@ -49,9 +49,9 @@
   Here are some of the exciting projects I’ve worked on:
 </p>
 <ul>
+ <li><strong>Spend.ly:</strong> A money tracker built with Next.js, Express.js, and MongoDB to help users manage their finances.</li>
   <li><strong>Stunting Risk Calculator:</strong> A mobile app developed using React Native with LLM to calculate and analyze stunting risks in babies using AI.</li>
   <li><strong>Brain Tumor Classification:</strong> A project using EfficientNet for brain tumor classification with AI-based transfer learning.</li>
-  <li><strong>Spend.ly:</strong> A money tracker built with Next.js, Express.js, and MongoDB to help users manage their finances.</li>
   <li><strong>BudayaNa:</strong> A mobile app focused on educating users about the tourism and cultural heritage of North Minahasa, Indonesia.</li>
   <li><strong>VillageDean:</strong> An application that helps in processing student data at Universitas Klabat.</li>
 </ul>
