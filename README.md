@@ -8,8 +8,8 @@
   <!-- Short Bio -->
   <h3>✨ About Me</h3>
   <p>
-    I'm a dedicated <strong>Full-stack Developer</strong> with a strong focus on <strong>Deep Learning</strong> and building intelligent systems.<br />
-    I enjoy combining software engineering skills with state-of-the-art AI to craft impactful solutions.
+    I'm a dedicated <strong>Full-stack Developer</strong> with expertise in building web and mobile applications.<br />
+    I also specialize in <strong>Deep Learning</strong> to develop intelligent systems and solutions.
   </p>
 
   <!-- Social Media Badges -->
